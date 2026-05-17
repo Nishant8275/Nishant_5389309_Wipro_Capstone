@@ -43,14 +43,14 @@ try:
     # Validation
     assert "shampoo" in driver.page_source.lower()
 
-    print("TEST PASSED ✅")
+    print("TEST PASSED")
 
     # Screenshot
     driver.save_screenshot("nykaa_test.png")
 
 except Exception as e:
 
-    print("TEST FAILED ❌")
+    print("TEST FAILED")
     print(e)
 
 finally:
