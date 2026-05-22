@@ -1,0 +1,4 @@
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:39 Opening Nykaa
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:46 Nykaa website opened successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:61 Opening Hair category
+[1m[31mERROR   [0m nykaa_automation:nykaa_e2e_test.py:229 TEST FAILED: Message:

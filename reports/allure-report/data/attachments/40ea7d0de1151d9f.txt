@@ -1,0 +1,13 @@
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:24 Opening Nykaa
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:33 Searching product
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:39 Opening product
+[32mINFO    [0m nykaa_automation:payment_page.py:68 Guest button clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:94 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:106 Entered Name: Test User
+[32mINFO    [0m nykaa_automation:payment_page.py:118 Entered Phone: 9999999999
+[32mINFO    [0m nykaa_automation:payment_page.py:130 Entered Email: testuser@gmail.com
+[32mINFO    [0m nykaa_automation:payment_page.py:142 Entered House: 221B
+[32mINFO    [0m nykaa_automation:payment_page.py:154 Entered Area: Delhi
+[32mINFO    [0m nykaa_automation:payment_page.py:166 Entered Pincode: 110001
+[32mINFO    [0m nykaa_automation:payment_page.py:168 Address filled successfully
+[32mINFO    [0m nykaa_automation:payment_page.py:197 Ship button clicked

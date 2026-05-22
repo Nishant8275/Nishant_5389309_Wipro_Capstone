@@ -1,0 +1,5 @@
+[32mINFO    [0m nykaa_automation:all_tests.py:77 Searching conditioner
+[32mINFO    [0m nykaa_automation:all_tests.py:85 Product page opened
+[32mINFO    [0m nykaa_automation:all_tests.py:91 Added to bag
+[32mINFO    [0m nykaa_automation:all_tests.py:97 Cart opened
+[32mINFO    [0m nykaa_automation:all_tests.py:109 Assertion passed - cart opened

@@ -1,0 +1,55 @@
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:24 Opening Nykaa
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:33 Searching product
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:39 Opening product
+[32mINFO    [0m nykaa_automation:payment_page.py:69 Guest button clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:95 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:107 Entered Name: Test User
+[32mINFO    [0m nykaa_automation:payment_page.py:119 Entered Phone: 9999999999
+[32mINFO    [0m nykaa_automation:payment_page.py:131 Entered Email: testuser@gmail.com
+[32mINFO    [0m nykaa_automation:payment_page.py:143 Entered House: 221B
+[32mINFO    [0m nykaa_automation:payment_page.py:155 Entered Area: Delhi
+[32mINFO    [0m nykaa_automation:payment_page.py:168 Entered Pincode: 110001
+[32mINFO    [0m nykaa_automation:payment_page.py:173 Address filled successfully
+[31m[1mERROR   [0m nykaa_automation:payment_page.py:206 Ship button failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ec3c7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6ec3c7e50+14900]
+	chromedriver!(No symbol) [0x7ff6ec12d5ad]
+	chromedriver!(No symbol) [0x7ff6ec187822]
+	chromedriver!(No symbol) [0x7ff6ec187b2c]
+	chromedriver!(No symbol) [0x7ff6ec1d7d17]
+	chromedriver!(No symbol) [0x7ff6ec1d486f]
+	chromedriver!(No symbol) [0x7ff6ec179df8]
+	chromedriver!(No symbol) [0x7ff6ec17ace3]
+	chromedriver!GetHandleVerifier [0x7ff6ec6dcc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6ec6d7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6ec6fbc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6ec3e6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6ec3eecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6ec3d1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6ec3d1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6ec3b60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffdbdbae8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdbefec40c+2c]
+
+[31m[1mERROR   [0m nykaa_automation:nykaa_e2e_test.py:106 TEST FAILED: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ec3c7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6ec3c7e50+14900]
+	chromedriver!(No symbol) [0x7ff6ec12d5ad]
+	chromedriver!(No symbol) [0x7ff6ec187822]
+	chromedriver!(No symbol) [0x7ff6ec187b2c]
+	chromedriver!(No symbol) [0x7ff6ec1d7d17]
+	chromedriver!(No symbol) [0x7ff6ec1d486f]
+	chromedriver!(No symbol) [0x7ff6ec179df8]
+	chromedriver!(No symbol) [0x7ff6ec17ace3]
+	chromedriver!GetHandleVerifier [0x7ff6ec6dcc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6ec6d7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6ec6fbc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6ec3e6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6ec3eecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6ec3d1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6ec3d1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6ec3b60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffdbdbae8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdbefec40c+2c]

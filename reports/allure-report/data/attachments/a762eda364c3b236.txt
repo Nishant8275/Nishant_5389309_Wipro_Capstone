@@ -1,0 +1,24 @@
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:39 Opening Nykaa
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:46 Nykaa website opened successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:61 Searching shampoo
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:75 Search results displayed
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:89 Product page opened
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:108 Product added to cart
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:127 Cart opened successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:138 Proceed clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:69 Guest button clicked
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:147 Guest checkout handled
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:167 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:95 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:107 Entered Name: Test User
+[32mINFO    [0m nykaa_automation:payment_page.py:119 Entered Phone: 9999999999
+[32mINFO    [0m nykaa_automation:payment_page.py:131 Entered Email: testuser@gmail.com
+[32mINFO    [0m nykaa_automation:payment_page.py:143 Entered House: 221B
+[32mINFO    [0m nykaa_automation:payment_page.py:155 Entered Area: Delhi
+[32mINFO    [0m nykaa_automation:payment_page.py:168 Entered Pincode: 110001
+[32mINFO    [0m nykaa_automation:payment_page.py:173 Address filled successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:183 Address filled successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:204 Ship button visible
+[32mINFO    [0m nykaa_automation:payment_page.py:205 Ship button clicked successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:213 Ship button clicked
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:230 Checkout flow completed successfully

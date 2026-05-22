@@ -1,0 +1,19 @@
+[32mINFO    [0m nykaa_automation:all_tests.py:191 STEP 1: Searching shampoo
+[32mINFO    [0m nykaa_automation:all_tests.py:195 STEP 2: Product page opened
+[32mINFO    [0m nykaa_automation:all_tests.py:198 STEP 3: Added to bag
+[32mINFO    [0m nykaa_automation:all_tests.py:201 STEP 4: Cart opened
+[32mINFO    [0m nykaa_automation:all_tests.py:204 STEP 5: Proceed clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:69 Guest button clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:207 STEP 6: Guest login handled
+[32mINFO    [0m nykaa_automation:payment_page.py:95 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:107 Entered Name: Test User
+[32mINFO    [0m nykaa_automation:payment_page.py:119 Entered Phone: 9999999999
+[32mINFO    [0m nykaa_automation:payment_page.py:131 Entered Email: testuser@gmail.com
+[32mINFO    [0m nykaa_automation:payment_page.py:143 Entered House: 221B
+[32mINFO    [0m nykaa_automation:payment_page.py:155 Entered Area: Delhi
+[32mINFO    [0m nykaa_automation:payment_page.py:168 Entered Pincode: 110001
+[32mINFO    [0m nykaa_automation:payment_page.py:173 Address filled successfully
+[32mINFO    [0m nykaa_automation:all_tests.py:229 STEP 7: Address filled successfully
+[32mINFO    [0m nykaa_automation:payment_page.py:202 Ship button clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:235 STEP 8: Continue to payment clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:250 TEST PASSED: Payment flow reached successfully

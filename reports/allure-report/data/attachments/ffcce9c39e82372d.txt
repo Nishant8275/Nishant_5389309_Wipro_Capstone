@@ -1,0 +1,41 @@
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:40 Opening Nykaa
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:47 Nykaa website opened successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:62 Searching shampoo
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:76 Search results displayed
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:90 Product page opened
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:109 Product added to cart
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:128 Cart opened successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:139 Proceed clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:69 Guest button clicked
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:148 Guest checkout handled
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:168 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:95 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:107 Entered Name: Test User
+[32mINFO    [0m nykaa_automation:payment_page.py:119 Entered Phone: 9999999999
+[32mINFO    [0m nykaa_automation:payment_page.py:131 Entered Email: testuser@gmail.com
+[32mINFO    [0m nykaa_automation:payment_page.py:143 Entered House: 221B
+[32mINFO    [0m nykaa_automation:payment_page.py:155 Entered Area: Delhi
+[32mINFO    [0m nykaa_automation:payment_page.py:168 Entered Pincode: 110001
+[32mINFO    [0m nykaa_automation:payment_page.py:173 Address filled successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:184 Address filled successfully
+[31m[1mERROR   [0m nykaa_automation:nykaa_e2e_test.py:235 TEST FAILED: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff72c147de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff72c147e50+14900]
+	chromedriver!(No symbol) [0x7ff72bead5ad]
+	chromedriver!(No symbol) [0x7ff72bf07822]
+	chromedriver!(No symbol) [0x7ff72bf07b2c]
+	chromedriver!(No symbol) [0x7ff72bf57d17]
+	chromedriver!(No symbol) [0x7ff72bf5486f]
+	chromedriver!(No symbol) [0x7ff72bef9df8]
+	chromedriver!(No symbol) [0x7ff72beface3]
+	chromedriver!GetHandleVerifier [0x7ff72c45cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff72c457375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff72c47bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff72c166045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff72c16ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff72c151bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff72c151d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff72c1360e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffdbdbae8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdbefec40c+2c]

@@ -1,0 +1,2 @@
+[32mINFO    [0m nykaa_automation:payment_page.py:69 Guest button clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:205 Ship button clicked successfully
