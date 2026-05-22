@@ -1,0 +1,27 @@
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:28 Opening Nykaa
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:36 Nykaa website opened successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:49 Searching shampoo
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:64 Search results displayed successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:71 Product page opened
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:79 Product page assertion passed
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:86 Product added to bag
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:99 Cart assertion passed
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:106 Cart opened
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:119 Cart opened assertion passed
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:126 Proceed clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:69 Guest button clicked
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:135 Guest checkout handled
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:154 Address page assertion passed
+[32mINFO    [0m nykaa_automation:payment_page.py:95 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:107 Entered Name: Test User
+[32mINFO    [0m nykaa_automation:payment_page.py:119 Entered Phone: 9999999999
+[32mINFO    [0m nykaa_automation:payment_page.py:131 Entered Email: testuser@gmail.com
+[32mINFO    [0m nykaa_automation:payment_page.py:143 Entered House: 221B
+[32mINFO    [0m nykaa_automation:payment_page.py:155 Entered Area: Delhi
+[32mINFO    [0m nykaa_automation:payment_page.py:168 Entered Pincode: 110001
+[32mINFO    [0m nykaa_automation:payment_page.py:173 Address filled successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:168 Address filled successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:187 Ship button assertion passed
+[32mINFO    [0m nykaa_automation:payment_page.py:205 Ship button clicked successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:194 Ship button clicked successfully
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:209 TEST PASSED SUCCESSFULLY

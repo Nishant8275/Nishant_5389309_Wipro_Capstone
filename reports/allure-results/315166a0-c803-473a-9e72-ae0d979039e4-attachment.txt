@@ -1,0 +1,4 @@
+[32mINFO    [0m nykaa_automation:all_tests.py:40 Searching shampoo
+[32mINFO    [0m nykaa_automation:all_tests.py:46 Product page opened
+[32mINFO    [0m nykaa_automation:all_tests.py:51 Product added to cart
+[32mINFO    [0m nykaa_automation:all_tests.py:62 Assertion passed - product added

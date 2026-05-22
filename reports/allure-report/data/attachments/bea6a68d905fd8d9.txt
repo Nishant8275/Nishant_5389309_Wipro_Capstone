@@ -1,0 +1,7 @@
+[32mINFO    [0m nykaa_automation:all_tests.py:351 Searching shampoo
+[32mINFO    [0m nykaa_automation:all_tests.py:363 Added to bag
+[32mINFO    [0m nykaa_automation:all_tests.py:369 Cart opened
+[32mINFO    [0m nykaa_automation:all_tests.py:375 Proceed clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:381 Guest clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:395 Tried continuing with empty fields
+[32mINFO    [0m nykaa_automation:all_tests.py:403 Assertion passed - empty fields validation working

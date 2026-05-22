@@ -1,0 +1,16 @@
+[32mINFO    [0m nykaa_automation:all_tests.py:275 Searching shampoo
+[32mINFO    [0m nykaa_automation:all_tests.py:287 Added to bag
+[32mINFO    [0m nykaa_automation:all_tests.py:293 Cart opened
+[32mINFO    [0m nykaa_automation:all_tests.py:299 Proceed clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:69 Guest button clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:305 Guest clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:95 Address page opened
+[32mINFO    [0m nykaa_automation:payment_page.py:107 Entered Name: Test User
+[32mINFO    [0m nykaa_automation:payment_page.py:119 Entered Phone: 9999999999
+[32mINFO    [0m nykaa_automation:payment_page.py:131 Entered Email: testuser@gmail.com
+[32mINFO    [0m nykaa_automation:payment_page.py:143 Entered House: 221B
+[32mINFO    [0m nykaa_automation:payment_page.py:155 Entered Area: Delhi
+[32mINFO    [0m nykaa_automation:payment_page.py:168 Entered Pincode: 000000
+[32mINFO    [0m nykaa_automation:payment_page.py:173 Address filled successfully
+[32mINFO    [0m nykaa_automation:all_tests.py:325 Invalid pincode entered
+[32mINFO    [0m nykaa_automation:all_tests.py:333 Assertion passed - invalid pincode blocked

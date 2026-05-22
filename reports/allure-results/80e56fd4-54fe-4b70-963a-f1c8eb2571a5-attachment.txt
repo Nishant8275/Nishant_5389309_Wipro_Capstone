@@ -1,0 +1,9 @@
+[32mINFO    [0m nykaa_automation:all_tests.py:188 Searching shampoo
+[32mINFO    [0m nykaa_automation:all_tests.py:196 Product page opened
+[32mINFO    [0m nykaa_automation:all_tests.py:202 Added to bag
+[32mINFO    [0m nykaa_automation:all_tests.py:208 Cart opened
+[32mINFO    [0m nykaa_automation:all_tests.py:214 Proceed clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:220 Guest clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:240 Address filled successfully
+[32mINFO    [0m nykaa_automation:all_tests.py:246 Continue to payment clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:257 Assertion passed - payment flow continued

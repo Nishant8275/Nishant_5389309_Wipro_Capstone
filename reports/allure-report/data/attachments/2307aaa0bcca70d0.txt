@@ -1,0 +1,3 @@
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:24 Opening Nykaa
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:33 Searching product
+[32mINFO    [0m nykaa_automation:nykaa_e2e_test.py:39 Opening product

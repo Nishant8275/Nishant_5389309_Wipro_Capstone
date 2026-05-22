@@ -1,0 +1,8 @@
+[32mINFO    [0m nykaa_automation:all_tests.py:127 Searching hair oil
+[32mINFO    [0m nykaa_automation:all_tests.py:135 Product page opened
+[32mINFO    [0m nykaa_automation:all_tests.py:141 Added to bag
+[32mINFO    [0m nykaa_automation:all_tests.py:147 Cart opened
+[32mINFO    [0m nykaa_automation:all_tests.py:153 Proceed clicked
+[32mINFO    [0m nykaa_automation:payment_page.py:69 Guest button clicked
+[32mINFO    [0m nykaa_automation:all_tests.py:159 Guest checkout handled
+[32mINFO    [0m nykaa_automation:all_tests.py:170 Assertion passed - checkout opened
