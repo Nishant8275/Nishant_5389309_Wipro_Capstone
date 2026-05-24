@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+behave
+allure-behave
+openpyxl
+pandas
+faker
+python-dotenv
+requests
