@@ -893,3 +893,27 @@ Stacktrace:
 2026-05-22 12:56:17,881 - INFO - Ship button clicked
 2026-05-22 12:56:22,892 - INFO - Checkout flow completed successfully
 2026-05-22 18:17:54,590 - INFO - Cart opened
+2026-05-22 21:01:39,123 - INFO - Opening Nykaa
+2026-05-22 21:01:41,140 - INFO - Nykaa website opened successfully
+2026-05-22 21:01:41,141 - INFO - Searching shampoo
+2026-05-22 21:01:50,525 - INFO - Search results displayed
+2026-05-22 21:01:53,652 - INFO - Product page opened
+2026-05-22 21:01:57,104 - INFO - Product added to cart
+2026-05-22 21:02:01,247 - INFO - Cart opened successfully
+2026-05-22 21:02:06,962 - INFO - Proceed clicked
+2026-05-22 21:02:07,029 - INFO - Guest button clicked
+2026-05-22 21:02:07,029 - INFO - Guest checkout handled
+2026-05-22 21:02:07,059 - INFO - Address page opened
+2026-05-22 21:02:07,064 - INFO - Address page opened
+2026-05-22 21:02:07,313 - INFO - Entered Name: Test User
+2026-05-22 21:02:07,497 - INFO - Entered Phone: 9999999999
+2026-05-22 21:02:07,683 - INFO - Entered Email: testuser@gmail.com
+2026-05-22 21:02:07,782 - INFO - Entered House: 221B
+2026-05-22 21:02:07,895 - INFO - Entered Area: Delhi
+2026-05-22 21:02:08,016 - INFO - Entered Pincode: 110001
+2026-05-22 21:02:11,018 - INFO - Address filled successfully
+2026-05-22 21:02:11,018 - INFO - Address filled successfully
+2026-05-22 21:02:16,054 - INFO - Ship button visible
+2026-05-22 21:02:16,089 - INFO - Ship button clicked successfully
+2026-05-22 21:02:16,089 - INFO - Ship button clicked
+2026-05-22 21:02:21,104 - INFO - Checkout flow completed successfully
